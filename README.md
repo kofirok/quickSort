@@ -1,7 +1,8 @@
  # Implementing Quicksort
  # Khalid Kofiro
 
-This project simulates throwing darts at the unit circle to estimate the value of pi.
+This project implements quicksort on a folder of files containing hundreds of thousands of numbers, and
+prints out the results clearly. 
 
 # Classes
 
@@ -29,6 +30,9 @@ This project simulates throwing darts at the unit circle to estimate the value o
 
  * You should see the numbers you have input into the text file sorted in terminal. Along with them sorted in the new input_sorted.txt file.
 
+<p align="center">
+  <img src="images/quicksort.png" alt="quicksorTerminal" width="450"/>
+</p>
 
  # Counters
  * Implemented counters that gather statistics about input size, comparisons and assignments.
